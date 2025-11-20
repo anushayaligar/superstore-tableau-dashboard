@@ -1,61 +1,102 @@
 # 📊 Tableau Dashboards – Superstore & Small Sales Analysis
 
-This repository contains multiple Tableau dashboards created as part of a Data Visualisation & Storytelling project.  
-The dashboards analyze sales trends, profit performance, discount impact, and key business insights using real-world datasets.
+This repository contains Tableau dashboards created as part of a Data Visualisation & Storytelling project.  
+The dashboards analyse sales trends, profit performance, discount impact, and key business insights using real datasets.
 
 ---
 
 # 📁 Projects Included
 
-## 1️⃣ **Superstore Sales & Profit Dashboard (Main Project)**  
+## 1️⃣ Superstore Sales & Profit Dashboard  
 **Dataset:** Sample Superstore (2014–2017)  
-**Tools:** Tableau Public  
+**Tool:** Tableau Public  
 
-### 🔍 **Overview**
-A complete business analysis dashboard visualising:
+### 🔍 Overview  
+This dashboard provides insights into:
+
 - Monthly Sales Trend  
 - Category-wise Sales & Profit  
 - Sub-Category Profitability  
 - Discount vs Profit relationship  
 
-This dashboard is designed for data analytics portfolios, storytelling tasks, and BI case studies.
+---
 
-### 📸 **Dashboard Preview**
-(Replace with your image)  
-`![Superstore Dashboard](screenshots/superstore_dashboard.png)`
+### 📸 Dashboard Preview
 
-### ⭐ **Key Insights**
-- Sales steadily increased from 2014–2017.  
-- The technology category contributes the highest profit.  
-- Furniture (especially Tables & Bookcases) shows recurring losses.  
-- Higher discounts lead to sharp profit reductions.  
-- Phones, Copiers, and Accessories perform strongly across all years.
+![Superstore Dashboard](screenshots/superstore%20sales%20and%20profits.png)
 
 ---
 
-## 2️⃣ **Small Sales Dashboard (Mini Project)**  
+### ⭐ Key Insights
+
+- Sales increased steadily from 2014–2017  
+- Technology is the most profitable category  
+- Tables & Bookcases show consistent losses  
+- Higher discounts sharply reduce profit  
+- Phones, Copiers & Accessories perform strongly  
+
+---
+
+## 2️⃣ Small Sales Dashboard  
 **Dataset:** Small custom sales file  
-**Tools:** Tableau Public  
+**Tool:** Tableau Public  
 
-### 🔍 **Overview**
-A smaller dashboard created to practice:
-- Basic charts  
+### 🔍 Overview  
+This practice dashboard was created to understand:
+
+- Basic chart creation  
 - Layouts  
-- Colour coding  
 - Filters  
-- Storytelling principles  
-- Dashboard design  
-
-### 📸 **Preview**
-(Replace with your image)  
-`![Small Sales Dashboard](screenshots/small_sales_dashboard.png)`
-
-### ⭐ **Key Insights**
-- Easy-to-understand trend visualisation  
-- Helps beginners understand the Tableau workflow  
-- Strong practice for dashboard organisation  
+- Colour usage  
+- Simple storytelling  
 
 ---
 
-# 🗂 **Folder Structure**
+### 📸 Preview
+
+![Small Sales Dashboard](screenshots/basic%20sales%20dashboard.png)
+
+---
+
+### ⭐ Key Insights
+
+- Simple, clear trend visualisation  
+- Great practice for dashboard building  
+- Clean and easy-to-understand layout  
+
+---
+
+# 🗂 Folder Structure
+
+---
+
+# 🚀 How to Use This Repository
+
+1. Download the `.twb` files  
+2. Open them in **Tableau Public**  
+3. Explore the dashboards using filters, marks, and insights  
+
+---
+
+# 🛠 Tools Used
+
+- Tableau Public  
+- CSV / Excel datasets  
+- GitHub  
+
+---
+
+# ✨ Author
+
+**Anusha Yaligar**  
+Data Analyst | Tableau | BI & Storytelling  
+
+---
+
+# 📬 Contact  
+
+
+- **Email:** yaligaranusha17@gmail.com
+
+
 
